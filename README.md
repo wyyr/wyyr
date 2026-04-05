@@ -1,4 +1,23 @@
-## Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyyr&theme=dark&show_icons=true&layout=compact&langs_count=7) <br>
-[![Waya's github stats](https://github-readme-stats.vercel.app/api?username=wyyr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+<img width="25%" align="right" src="" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I%27m+Waya%2C+Software+Engineer" width="65%" />
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const waya = {
+  name: "Waya",
+  languages: ["TypeScript", "JavaScript", "PHP", "HTML", "CSS"],
+  tools: {
+    backend: ["Laravel", "NestJS", "Express.js"],
+    frontend: ["Vue.js", "Nuxt.js"]
+  },
+  architecture: ["Monolithic", "Microservices"],
+  databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+  devops: ["Docker", "Google Cloud Platform", "GitLab CI/CD", "Github Action"],
+  sayHi: () => console.log("Let's craft robust, high-performance backend systems!")
+};
+```
+
+---
