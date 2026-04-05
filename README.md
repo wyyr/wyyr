@@ -1,4 +1,4 @@
-<img width="30%" align="right" src="https://github.com/user-attachments/assets/df3eed58-1d03-427b-8049-56c122b7bcac" />
+<img width="28%" align="right" src="https://github.com/user-attachments/assets/df3eed58-1d03-427b-8049-56c122b7bcac" />
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I%27m+Waya%2C+Software+Engineer" width="65%" />
 
 
